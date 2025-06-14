@@ -58,6 +58,6 @@
 
 ---
 
-**Jypyter Notebook:** [Jypyter Notebook](https://github.com/Furkat-github/analyst_portfolio/blob/main/Retail/Jupyter%20Notebook/sales.ipynb)
+**Jupyter Notebook:** [Jupyter Notebook](https://github.com/Furkat-github/analyst_portfolio/blob/main/Retail/Jupyter%20Notebook/sales.ipynb)
 
 **GitHub:** [Furkat-github](https://github.com/Furkat-github)
