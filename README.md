@@ -25,7 +25,7 @@
 ## 📫 Связь со мной
 
 - Telegram: [ссылка](https://t.me/Furkat_4ik)
-- LinkedIn: [ссылка](www.linkedin.com/in/furkat-nuriddinov)
+- LinkedIn: [ссылка](https://www.linkedin.com/in/furkat-nuriddinov/)
 ---
 
 > 📌 Репозиторий будет обновляться по мере появления новых проектов.
