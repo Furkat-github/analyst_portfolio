@@ -19,7 +19,7 @@
 ## 🛠️ Навыки и инструменты
 
 - **Языки:** Python (pandas, NumPy, matplotlib, seaborn), SQL, PostgreSQL
-- **BI:** Power BI, Tableau
+- **BI:** Power BI, Tableau, Excel
 - **Data Science:** аналитика, визуализация, отчёты
 - **Dev Tools:** Git, Jupyter Notebook, VS Code
 
