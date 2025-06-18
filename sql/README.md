@@ -1,4 +1,4 @@
-# 🛒 Retail: Анализ продаж в PostgreSQL
+# [🛒 Retail](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/retail_sales_analysis.sql): Анализ продаж в PostgreSQL
 
 ## 📌 Описание  
 Проект посвящён анализу розничных продаж на основе данных из CSV, загруженных в базу данных PostgreSQL.  
@@ -9,7 +9,7 @@
 ## 📁 Файлы проекта  
 - `Retail_sales_data.csv` — исходный датасет  
 - `retail_sales_analysis.sql` — файл с SQL-запросами  
-- `retail_sales_results/` — папка с выгруженными результатами запросов  
+- [`retail_sales_results`](https://github.com/Furkat-github/analyst_portfolio/tree/main/sql/retail_sales_results) — папка с выгруженными результатами запросов  
 
 ---
 
