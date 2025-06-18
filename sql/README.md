@@ -7,8 +7,8 @@
 ---
 
 ## 📁 Файлы проекта  
-- `Retail_sales_data.csv` — исходный датасет  
-- `retail_sales_analysis.sql` — файл с SQL-запросами  
+- [`Retail_sales_data.csv`](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/Retail_sales_data.csv) — исходный датасет  
+- [`retail_sales_analysis.sql`](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/retail_sales_analysis.sql) — файл с SQL-запросами  
 - [`retail_sales_results`](https://github.com/Furkat-github/analyst_portfolio/tree/main/sql/retail_sales_results) — папка с выгруженными результатами запросов  
 
 ---
@@ -25,7 +25,7 @@
 | ... | ... |
 | 2024-09-10  | 4 001 110 |
 
-📄 Полный файл с выручкой по дням: `results/daily_revenue.csv`
+📄 Полный файл с выручкой по дням: [`results/daily_revenue.csv`](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/retail_sales_results/%D0%92%D1%8B%D1%80%D1%83%D1%87%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%B4%D0%BD%D1%8F%D0%BC.csv)
 
 ---
 
@@ -39,7 +39,7 @@
 | Каймак 400 гр, 45%         | 687  |
 | Сметана 400 гр, 15%        | 674  |
 
-📄 Полный файл: `results/top_5_products.csv`
+📄 Полный файл: [`results/top_5_products.csv`](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/retail_sales_results/%D0%A2%D0%BE%D0%BF%205%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D1%85%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2.csv)
 
 ---
 
