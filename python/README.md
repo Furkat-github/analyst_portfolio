@@ -4,7 +4,7 @@
 
 ---
 
-## [💳 Fintech](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/fintech_transactions.ipynb): Анализ транзакционной активности клиентов
+## [💳 Bank](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/bank_transactions.ipynb): Анализ транзакционной активности клиентов
 
 ### 📌 Описание
 Анализ данных финтех-сервиса с целью:
