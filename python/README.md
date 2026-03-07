@@ -39,8 +39,6 @@
 
 ---
 
----
-
 ## 🔎 Этапы анализа
 
 Анализ данных был проведён в несколько последовательных этапов.
@@ -71,7 +69,8 @@ Daily Active Users (DAU)
 
 Метрика рассчитывалась следующим образом:
 
-```dau = df_transactions.groupby(df_transactions['date'].dt.date)['user_id'].nunique()
+```
+dau = df_transactions.groupby(df_transactions['date'].dt.date)['user_id'].nunique()
 ```
 
 Данная метрика позволяет:
@@ -86,7 +85,8 @@ Monthly Active Users (MAU)
 
 Также была рассчитана метрика MAU — количество уникальных пользователей, совершивших транзакции за месяц.
 
-```mau = df_transactions.groupby(df_transactions['date'].dt.to_period('M'))['user_id'].nunique()
+```
+mau = df_transactions.groupby(df_transactions['date'].dt.to_period('M'))['user_id'].nunique()
 ```
 
 MAU используется для:
@@ -111,7 +111,8 @@ MAU используется для:
 
 Пример расчёта:
 
-```df_transactions.groupby('transaction_type')['amount'].mean()
+```
+df_transactions.groupby('transaction_type')['amount'].mean()
 ```
 
 Этот анализ позволяет понять:
@@ -130,7 +131,8 @@ MAU используется для:
 
 комиссии по различным маршрутам переводов
 
-```df_transactions.groupby('route_type')['fee_amount'].sum()
+```
+df_transactions.groupby('route_type')['fee_amount'].sum()
 ```
 
 Этот анализ помогает определить:
@@ -161,7 +163,8 @@ salom_share = salom_count / all_tx * 100
 
 Используя данные о банковских картах пользователей, был проведён анализ банков, которыми пользуются клиенты.
 
-```df_cards.groupby('bank_name')['user_id'].nunique()
+```
+df_cards.groupby('bank_name')['user_id'].nunique()
 ```
 
 Анализ позволил определить:
@@ -176,7 +179,8 @@ salom_share = salom_count / all_tx * 100
 
 Также был проведён анализ пользователей с наибольшим объёмом транзакций.
 
-```df_transactions.groupby('user_id')['amount'].sum()
+```
+df_transactions.groupby('user_id')['amount'].sum()
 ```
 
 На основе этого были определены 10 пользователей с наибольшим оборотом.
