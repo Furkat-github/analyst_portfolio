@@ -9,7 +9,6 @@
 
 | Проект | Описание | Инструменты |
 |:--------|:----------------------------|:-----------------------------|
-| [📊 FinSmart](./python) | Анализ транзакций клиентов банка, A/B-тест скидочной программы, расчёт метрик DAU, MAU, ARPU, Retention | Python, pandas, matplotlib, seaborn, statsmodels |
 | [💳 Bank](./python) | Анализ транзакционной активности, выявление мошенничества, сегментация клиентов | Python, pandas, matplotlib, seaborn, Power Point |
 | [🥛 Retail (Python)](./python) | Анализ продаж молочной продукции: прибыльные дни, товары-лидеры, динамика продаж | Python, pandas, matplotlib, seaborn |
 | [🛒 Retail (SQL)](./sql) | Анализ продаж средствами SQL: расчёт выручки, топ товаров, возвраты | PostgreSQL, SQL |
