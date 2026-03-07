@@ -56,7 +56,8 @@
 
 Использовались следующие методы pandas:
 
-```python
+```
+python
 df.info()
 df.describe()
 df.isna().sum()
