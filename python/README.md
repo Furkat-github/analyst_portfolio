@@ -81,6 +81,9 @@ dau = df_transactions.groupby(df_transactions['date'].dt.date)['user_id'].nuniqu
 
 выявлять изменения в поведении клиентов
 
+## 📊 DAU динамика
+![DAU](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Daily%20Active%20Users.png))
+
 Monthly Active Users (MAU)
 
 Также была рассчитана метрика MAU — количество уникальных пользователей, совершивших транзакции за месяц.
