@@ -37,9 +37,6 @@
 
 ---
 
-## 📂 Структура проекта
-
-
 # [🛒 Retail](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/retail_sales_analysis.sql): Анализ продаж в PostgreSQL
 
 ## 📌 Описание  
