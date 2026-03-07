@@ -101,7 +101,7 @@ MAU используется для:
 сравнения активности пользователей между месяцами
 
 ## 📊 MAU динамика
-![MAU]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Monthly%20Active%20Users.png))
+![MAU](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Monthly%20Active%20Users.png))
 
 ### 💳 Анализ транзакций
 
@@ -128,7 +128,7 @@ df_transactions.groupby('transaction_type')['amount'].mean()
 какие операции формируют основной финансовый оборот.
 
 ## 📊 Transaction type
-![Transaction type]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Transaction%20Type.png))
+![Transaction type](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Transaction%20Type.png))
 
 ### 💰 Анализ комиссий
 
@@ -151,7 +151,7 @@ df_transactions.groupby('route_type')['fee_amount'].sum()
 какие каналы переводов являются наиболее прибыльными.
 
 ## 📊 Transfer Routes Distribution
-![Transfer Routes Distribution]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Transfer%20Routes%20Distribution.png))
+![Transfer Routes Distribution](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Transfer%20Routes%20Distribution.png))
 
 ### 🔄 Анализ маршрутов переводов
 
@@ -188,7 +188,7 @@ df_cards.groupby('bank_name')['user_id'].nunique()
 Результаты были визуализированы с помощью pie chart.
 
 ## 📊 Connected Cards by Bank
-![Connected Cards by Bank]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Connected%20Cards%20by%20Bank.png))
+![Connected Cards by Bank](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Connected%20Cards%20by%20Bank.png))
 
 ### 👤 Анализ активности пользователей
 
@@ -207,7 +207,7 @@ df_transactions.groupby('user_id')['amount'].sum()
 определить пользователей с высоким оборотом средств.
 
 ## 📊 Top 10 Users by Transaction Volume
-![Top 10 Users by Transaction Volume]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Top%2010%20Users%20by%20Transaction%20Volume.png))
+![Top 10 Users by Transaction Volume](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Top%2010%20Users%20by%20Transaction%20Volume.png))
 
 ### 📊 Визуализация данных
 
