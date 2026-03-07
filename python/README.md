@@ -100,6 +100,9 @@ MAU используется для:
 
 сравнения активности пользователей между месяцами
 
+## 📊 MAU динамика
+![MAU]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Monthly%20Active%20Users.png))
+
 ### 💳 Анализ транзакций
 
 Был проведён анализ типов транзакций пользователей.
@@ -124,6 +127,9 @@ df_transactions.groupby('transaction_type')['amount'].mean()
 
 какие операции формируют основной финансовый оборот.
 
+## 📊 Transaction type
+![Transaction type]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Transaction%20Type.png))
+
 ### 💰 Анализ комиссий
 
 Дополнительно был проведён анализ комиссий, которые сервис получает с транзакций.
@@ -143,6 +149,9 @@ df_transactions.groupby('route_type')['fee_amount'].sum()
 какие типы операций приносят наибольший доход сервису
 
 какие каналы переводов являются наиболее прибыльными.
+
+## 📊 Transfer Routes Distribution
+![Transfer Routes Distribution]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Transfer%20Routes%20Distribution.png))
 
 ### 🔄 Анализ маршрутов переводов
 
@@ -178,6 +187,9 @@ df_cards.groupby('bank_name')['user_id'].nunique()
 
 Результаты были визуализированы с помощью pie chart.
 
+## 📊 Connected Cards by Bank
+![Connected Cards by Bank]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Connected%20Cards%20by%20Bank.png))
+
 ### 👤 Анализ активности пользователей
 
 Также был проведён анализ пользователей с наибольшим объёмом транзакций.
@@ -193,6 +205,9 @@ df_transactions.groupby('user_id')['amount'].sum()
 выявить наиболее активных клиентов
 
 определить пользователей с высоким оборотом средств.
+
+## 📊 Top 10 Users by Transaction Volume
+![Top 10 Users by Transaction Volume]((https://github.com/Furkat-github/analyst_portfolio/blob/main/python/images/Top%2010%20Users%20by%20Transaction%20Volume.png))
 
 ### 📊 Визуализация данных
 
