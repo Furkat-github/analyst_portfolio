@@ -10,7 +10,7 @@
 | Проект | Описание | Инструменты |
 |:--------|:----------------------------|:-----------------------------|
 | [💳 Bank](./python) | Активность пользователей, типы операции, доход от комиссий, DAU, MAU | Python, pandas, matplotlib, seaborn, Jupyter Notebook |
-| [💳 Bank (SQL)](./sql) | SELECT, WHERE, GROUP BY, JOIN, агрегатные функции | SQL, PostgreSQL, CSV, GitHub |
+| [🏦 Bank (SQL)](./sql) | SELECT, WHERE, GROUP BY, JOIN, агрегатные функции | SQL, PostgreSQL, CSV, GitHub |
 | [🥛 Retail (Python)](./python) | Анализ продаж молочной продукции: прибыльные дни, товары-лидеры, динамика продаж | Python, pandas, matplotlib, seaborn |
 | [🛒 Retail (SQL)](./sql) | Анализ продаж средствами SQL: расчёт выручки, топ товаров, возвраты | PostgreSQL, SQL |
 | 📊 [Reports (Power BI / Power point)](./power%20BI) | Отчёты и визуализации всех проектов | Power BI, Power Point, Excel |
