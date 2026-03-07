@@ -4,7 +4,7 @@
 
 ---
 
-## [💳 Bank](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/Banking.ipynb): Анализ транзакционной активности клиентов
+## [💳 Bank](https://github.com/Furkat-github/analyst_portfolio/blob/main/python/Banking.ipynb): Анализ активности клиентов
 
 ## 📌 Описание проекта
 
