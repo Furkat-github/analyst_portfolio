@@ -1,4 +1,4 @@
-# [🗄️ SQL](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/retail_sales_analysis.sql): Анализ банковских транзакций
+# [🗄️ SQL](https://github.com/Furkat-github/analyst_portfolio/blob/main/sql/bank_transactions.sql)): Анализ банковских транзакций
 
 ## 📌 Описание проекта
 
