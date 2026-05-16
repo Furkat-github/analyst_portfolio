@@ -31,7 +31,6 @@
 
 - Telegram: [Telegram](https://t.me/Furkat_4ik)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/furkat-nuriddinov/)
-- Blog: [Blog](https://t.me/Analysing_means_living)
 ---
 
 > 📌 Репозиторий будет обновляться по мере появления новых проектов.
